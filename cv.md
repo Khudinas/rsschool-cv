@@ -6,7 +6,9 @@
   * **E-mail:** khudina.ana@inbox.ru
   * **Discord:** @Khudinas
   * **Telegram:** @khudinas
+
 -----
+
 ## Briefly about myself
 
 I am currently finishing my studies at the University of [*MGUTU named after K.G. Razumovsky*](https://mgutm.ru). My goal is not to stop and keep learning, so I decided to discover a new direction thanks to RS School.
@@ -23,6 +25,7 @@ I am currently finishing my studies at the University of [*MGUTU named after K.G
 -----
 
 ## Code example
+
 Task: *This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.*
 ```
 function simpleMultiplication(number) {
@@ -34,13 +37,18 @@ function simpleMultiplication(number) {
 }
 ```
 ----
+
 ## Work expirience
-#### Unfortunately missing...
+Unfortunately missing...
+
 ----
+
 ## Education and courses
  1. Secondary general education;
  2. University: MGUTU named after K.G. Razumovsky, Civil Ecology and Nature Management (in progress);
  3. JavaScript/Front-end. Stage 0 (in progress).
+
 ----
+
 ## Language
 English - A2
