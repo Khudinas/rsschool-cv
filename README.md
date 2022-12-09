@@ -1,1 +1,1 @@
-# rsschool-cv
+https://khudinas.github.io/rsschool-cv/
