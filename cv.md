@@ -1,7 +1,7 @@
 # Anastasia Khudina
 ![](https://drive.google.com/file/d/1XyEDh_3Lbes07Xuoqw4dXgeSehHpL7XA/view?usp=share_link)
 ----
-## Contact information:
+## Contact information
   * **Phone:** +7 (926) 199-34-50
   * **E-mail:** khudina.ana@inbox.ru
   * **Discord:** @Khudinas
@@ -38,8 +38,8 @@ function simpleMultiplication(number) {
 ```
 ----
 
-## Work expirience
-Unfortunately missing...
+## Work experience
+*Unfortunately missing...*
 
 ----
 
@@ -51,4 +51,4 @@ Unfortunately missing...
 ----
 
 ## Language
-English - A2
+English level - A2
