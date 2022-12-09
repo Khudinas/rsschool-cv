@@ -1,10 +1,11 @@
 # Anastasia Khudina
-![](file:///D:/Документы/RS/Проекты/Photo2.jpg)
+![](https://drive.google.com/file/d/1XyEDh_3Lbes07Xuoqw4dXgeSehHpL7XA/view?usp=share_link)
 ----
 ## Contact information:
   * **Phone:** +7 (926) 199-34-50
   * **E-mail:** khudina.ana@inbox.ru
   * **Discord:** @Khudinas
+  * **Telegram:** @khudinas
 -----
 ## Briefly about myself
 
@@ -22,6 +23,8 @@ I am currently finishing my studies at the University of [*MGUTU named after K.G
 -----
 
 ## Code example
+Task: *This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.*
+```
 function simpleMultiplication(number) {
     if (number % 2 === 0) {
         return number * 8;
@@ -29,9 +32,10 @@ function simpleMultiplication(number) {
         return number * 9;
     }
 }
+```
 ----
 ## Work expirience
-*Unfortunately missing...*
+#### Unfortunately missing...
 ----
 ## Education and courses
  1. Secondary general education;
